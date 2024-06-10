@@ -60,4 +60,4 @@ We welcome contributions to expand the dataset, enhance the analysis, or refine 
 
 ## Acknowledgements
 
-We thank autolist.com for providing a rich source of used car listings that made this project possible. Our gratitude extends to our mentors and peers who supported us throughout this project.
+We thank autolist.com for providing a rich source of used car listings that made this project possible. Our gratitude extends to our mentors and peers who supported us throughout this project. This is a final project completed as an assignment for UC Davis MSBA Course BAX-422 Data Design & Representation.
